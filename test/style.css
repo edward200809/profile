@@ -11289,6 +11289,7 @@ body {
 
 .page-section {
   padding: 8rem 0;
+  position: relative;
 }
 
 .text-white-75 {
